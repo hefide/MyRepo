@@ -1,0 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Скомпилированный код
+/bin/
+/obj/
+
+# Временные файлы
+*.tmp
+*.swp
+
+# Логи
+*.log
+
+# Папки, создаваемые IDE
+.idea/
+*.user
+*.suo
+
+# Виртуальные окружения и зависимости
+/venv/
+/node_modules/
