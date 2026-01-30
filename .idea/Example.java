@@ -1,6 +1,6 @@
 public class Example{
     public static void main(String[] args){
-        System.out.println("This text is deferent");
+        System.out.println("This text");
     }
 
 }
@@ -8,5 +8,9 @@ public class Example{
 class Calculete{
     public int pluss(int firstNum, int secNum){
         return firstNum + secNum;
+    }
+
+    public int scale(int firstNum, int secNum){
+        return firstNum * secNum;
     }
 }
