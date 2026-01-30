@@ -1,6 +1,6 @@
 public class Example{
     public static void main(String[] args){
-        System.out.println("Test is begining");
+        System.out.println("This text is deferent");
     }
 
 }
