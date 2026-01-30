@@ -9,4 +9,8 @@ class Calculete{
     public int pluss(int firstNum, int secNum){
         return firstNum + secNum;
     }
+
+    public int scale(int firstNum, int secNum){
+        return firstNum * secNum;
+    }
 }
